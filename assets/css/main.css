@@ -2269,6 +2269,59 @@ input, select, textarea {
 		background-position: top left, center center;
 	}
 
+/* Three */
+
+	#three {
+		background: url("images/overlay.png"), url("https://raw.githubusercontent.com/venarii/magic-villages/master/images/intro.JPG");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+/* Four */
+
+	#four {
+		background: url("images/overlay.png"), url("https://raw.githubusercontent.com/venarii/magic-villages/master/images/four.JPG");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+/* Five */
+
+	#five {
+		background: url("images/overlay.png"), url("https://raw.githubusercontent.com/venarii/magic-villages/master/images/five.JPG");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+/* Six */
+
+	#six {
+		background: url("images/overlay.png"), url("https://raw.githubusercontent.com/venarii/magic-villages/master/images/intro.JPG");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+/* Seven */
+
+	#seven {
+		background: url("images/overlay.png"), url("https://raw.githubusercontent.com/venarii/magic-villages/master/images/one.JPG");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+/* Eight */
+
+	#eight {
+		background: url("images/overlay.png"), url("https://raw.githubusercontent.com/venarii/magic-villages/master/images/two.JPG");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
 /* Contact */
 
 	#contact {
